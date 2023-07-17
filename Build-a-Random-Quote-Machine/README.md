@@ -1,6 +1,5 @@
 This is the solution to Freecodecamp>>>
 Front End Libraries Projects - Build a Random Quote Machine
-Live Site:  https://freecodecamp-solutions.github.io/Build-a-Random-Quote-Machine/
 
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
